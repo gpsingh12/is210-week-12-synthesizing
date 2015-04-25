@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """Task 03 module"""
 
+
 def exception_test(arg1, arg2, arg3):
     """Function uses try and except blocks to return error.
     Arg:
@@ -28,4 +29,3 @@ def exception_test(arg1, arg2, arg3):
         caught = True
 
     return caught
-    
